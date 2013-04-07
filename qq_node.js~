@@ -1,8 +1,8 @@
 //https://github.com/play175/nodeqq/blob/master/app.js
 var qqinfo ={
     loginType:2,
-    qq:413082294,
-    pwd:'201030560116lgm'
+    qq:*****,
+    pwd:'****'
 };
 
 var http = require('http');
